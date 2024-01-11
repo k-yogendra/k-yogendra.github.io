@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hostel-5 IISER Mohali</p>
-    <p>Knowledge city, Sector 81 </p>
-    <p>Mohali Punjab 140306</p>
+    <p>Hostel-5, IISER Mohali</p>
+    <p>Sector 81, Mohali </p>
+    <p>Punjab India 140306</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 

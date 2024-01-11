@@ -59,7 +59,7 @@ toc: true
   </header>
 
   <article class="post-content">
-    {% if toc and toc.beginning %}
+    {% if page.toc and page.toc.enable %}
       <div id="table-of-contents">
         {% toc %}
       </div>

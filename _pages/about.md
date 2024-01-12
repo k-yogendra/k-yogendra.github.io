@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Physicist, <a href="https://www.iisermohali.ac.in/">IISER Mohali</a>
 
 profile:
   align: right

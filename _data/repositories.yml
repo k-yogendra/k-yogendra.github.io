@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - k-yogendra
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - k-yogendra/k-yogendra.github.io
+  - k-yogendra/Smile-detection-using-machine-learning
+  - k-yogendra/Finding-gender-bias-in-the-Hollywood-film-industry
+  - k-yogendra/PHY422-Computational-methods-in-physics-I
+  - k-yogendra/geant4-py8-barrel
+  - k-yogendra/Geant4-Detector
